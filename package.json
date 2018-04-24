@@ -10,10 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/computes/node-sdk.git"
   },
-  "keywords": [
-    "computes"
-  ],
-  "author": "computers@computes.com",
+  "keywords": ["computes"],
+  "author": "Computes <computers@computes.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/computes/node-sdk/issues"
